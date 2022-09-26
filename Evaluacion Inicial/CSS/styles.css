@@ -1,0 +1,30 @@
+.colum1{
+    width:75%;
+    float:left;
+    background-color:#FEEB3C;
+}
+
+.colum2{
+    width: 25%;
+    float: left;
+    background-color:#FEEB3C;
+}
+
+.colum1 div, .colum2 div{
+    padding-top:3%;
+    padding-bottom:3%;
+    font-size:1.5em;
+    border:1px solid black; 
+    text-align:center;
+}
+
+header {
+    width: 100%;
+    text-align: center;
+    padding-top:3%;
+    padding-bottom:3%;
+    margin:0;
+    font-size: 50px;
+    border:5px solid #C2AF03;
+    background-color:cornflowerblue;
+}
